@@ -1,3 +1,3 @@
 # Data-Science-Machine-Learning
-* Introduction to Data Science
+1. Introduction to Data Science
 * 
