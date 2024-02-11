@@ -1,8 +1,8 @@
 # Data-Science-Machine-Learning
 
-### 01. Introduction to Python---------> Done
-### 02. Conditions and Loops---------> Done
-### 03. Patterns---------> Done
+### 01. Introduction to Python--------------------------------------------------> Done
+### 02. Conditions and Loops----------------------------------------------------> Done
+### 03. Patterns----------------------------------------------------------------> Done
 ### 04. More on Loops
 ### 05. Strings, Lists & 2D Lists
 ### 06. Functions
@@ -23,7 +23,7 @@
 ### 21. Project - APIs (Part-2)
 ### 22. Web Scraping - Beautiful Soup
 ### 23. Web Scraping - Selenium - 1
-### 24. Introduction to ML---------> Done
+### 24. Introduction to ML--------------------------------------------------------> Done
 ### 25. Linear Regression
 ### 26. Multivariable Regression and Gradient Descent
 ### 27. Feature Scaling
