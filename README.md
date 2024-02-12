@@ -3,7 +3,7 @@
 ### 01. Introduction to Python--------------------------------------------------> Done
 ### 02. Conditions and Loops----------------------------------------------------> Done
 ### 03. Patterns----------------------------------------------------------------> Done
-### 04. More on Loops
+### 04. More on Loops-----------------------------------------------------------> Done
 ### 05. Strings, Lists & 2D Lists
 ### 06. Functions
 ### 07. Tuples, Dictionary and Sets
