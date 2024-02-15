@@ -4,8 +4,8 @@
 ### 02. Conditions and Loops----------------------------------------------------> Done
 ### 03. Patterns----------------------------------------------------------------> Done
 ### 04. More on Loops-----------------------------------------------------------> Done
-### 05. Strings, Lists & 2D Lists
-### 06. Functions
+### 05. Strings, Lists & 2D Lists-----------------------------------------------> Done
+### 06. Functions---------------------------------------------------------------> Done
 ### 07. Tuples, Dictionary and Sets
 ### 08. Object Oriented Programming Systems (OOPs)
 ### 09. Working with Files
